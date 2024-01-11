@@ -1,0 +1,4 @@
+Enter the string to URL encode: cat /exercise/flag.txt
+
+Original string: cat /exercise/flag.txt
+URL encoded string: cat%20/exercise/flag.txt
